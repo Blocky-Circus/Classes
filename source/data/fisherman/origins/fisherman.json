@@ -1,0 +1,12 @@
+{
+    "name": "Fisherman",
+    "description": "A Pokémon trainer that specializes in fishing. Fishermen start with a fishing rod, and Pokéballs that work well against Water type Pokémon.",
+    "icon": "minecraft:fishing_rod",
+    "order": 3,
+    "impact": 0,
+    "powers":
+    [
+        "common:starting_items",
+        "fisherman:starting_items"
+    ]
+}

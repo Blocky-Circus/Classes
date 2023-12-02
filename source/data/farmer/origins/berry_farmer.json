@@ -1,0 +1,12 @@
+{
+    "name": "Berry Farmer",
+    "description": "Pokémon trainer that have a passion for berry farming. Berry farmers start with a bundle of various berries.",
+    "icon": "cobblemon:oran_berry",
+    "order": 0,
+    "impact": 0,
+    "powers":
+    [
+        "common:starting_items",
+        "farmer:starting_berries"
+    ]
+}

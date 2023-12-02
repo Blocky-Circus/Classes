@@ -1,0 +1,28 @@
+{
+    "name": "Tackle Box",
+    "description": "You start with a fishing rod and a few Pokéballs that work better for Water type Pokémon.",
+    "badges":
+    [
+        {
+            "type": "origins:tooltip",
+            "sprite": "cobblemon:textures/item/poke_balls/net_ball.png",
+            "text": ""
+        }
+    ],
+    "type": "origins:starting_equipment",
+    "stacks":
+    [
+        {
+            "item": "minecraft:fishing_rod",
+            "amount": 1
+        },
+        {
+            "item": "cobblemon:net_ball",
+            "amount": 3
+        },
+        {
+            "item": "cobblemon:dive_ball",
+            "amount": 3
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Doctor's Bag",
+    "description": "You start with extra healing items.",
+    "badges":
+    [
+        {
+            "type": "origins:tooltip",
+            "sprite": "cobblemon:textures/item/medicine/full_heal.png",
+            "text": ""
+        }
+    ],
+    "type": "origins:starting_equipment",
+    "stacks":
+    [
+        {
+            "item": "cobblemon:potion",
+            "amount": 8
+        },
+        {
+            "item": "cobblemon:super_potion",
+            "amount": 1
+        },
+        {
+            "item": "cobblemon:full_heal",
+            "amount": 5
+        },
+        {
+            "item": "cobblemon:heal_ball",
+            "amount": 3
+        }
+    ]
+}

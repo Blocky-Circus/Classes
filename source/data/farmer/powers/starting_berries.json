@@ -1,0 +1,20 @@
+{
+    "name": "Berry Bundle",
+    "description": "You start with a bundle of various healing berries and mulch.",
+    "badges":
+    [
+        {
+            "type": "origins:tooltip",
+            "sprite": "minecraft:textures/item/bundle.png",
+            "text": ""
+        }
+    ],
+    "type": "origins:starting_equipment",
+    "stacks":
+    [
+        {
+            "item": "minecraft:bundle",
+            "tag": "{Items: [{id: \"cobblemon:oran_berry\", Count: 3b}, {id: \"cobblemon:leppa_berry\", Count: 3b}, {id: \"cobblemon:pecha_berry\", Count: 3b}, {id: \"cobblemon:growth_mulch\", Count: 8b}]}"
+        }
+    ]
+}
