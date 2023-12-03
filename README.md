@@ -1,5 +1,6 @@
+<center>
 <p align="center">
-    <img src=".github/assets/logo_classes_full.png"></img><br>
+    <img src="https://raw.githubusercontent.com/Blocky-Circus/Classes/main/.github/assets/logo_classes_full.png"></img><br>
     <a href="https://modrinth.com/datapack/blocky-circus-classes">
         <img src="https://img.shields.io/modrinth/v/blocky-circus-classes?style=flat-square&label=Version" alt="Version">
     </a>
@@ -16,6 +17,7 @@
         <img src="https://img.shields.io/github/contributors/Blocky-Circus/Classes?logo=github&label=Contributors&style=flat-square" alt="Contributors">
     </a>
 </p>
+</center>
 
 Blocky Circus Classes is a collection of datapacks consisting of custom classes for the Blocky Circus private server. Content within these datapacks falls under the [MIT](https://github.com/DartRuffian/Blocky-Circus-Origin/blob/main/LICENSE) license.
 
